@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+requests
+python-dotenv
+sentence-transformers
+pydantic-settings
+pinecone-client
+scikit-learn
+pandas
+matplotlib
+python-multipart
